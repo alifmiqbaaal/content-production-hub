@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+production.db
+uploads/
+__pycache__/
+*.pyc
+cloudflared.exe
+hero.jpg
